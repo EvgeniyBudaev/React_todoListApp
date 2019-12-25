@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Todo Application
-________________
-=======
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Image alt](https://github.com/EvgeniyBudaev/React_todoListApp/raw/master/images/readme1.jpg)
